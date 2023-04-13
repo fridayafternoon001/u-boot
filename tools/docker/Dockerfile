@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: GPL-2.0+
 # This Dockerfile is used to build an image containing basic stuff to be used
-# to build U-Boot and run our test suites.
+# to build U-Boot and run our test suites.testtest
 
 FROM ubuntu:focal-20220113
 MAINTAINER Tom Rini <trini@konsulko.com>
