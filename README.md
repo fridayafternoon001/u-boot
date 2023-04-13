@@ -1,2 +1,1 @@
-[![OpenSSF
-Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{fridayafternoon001}/{u-boot}/badge)](https://api.securityscorecards.dev/projects/github.com/{fridayafternoon001}/{u-boot})
