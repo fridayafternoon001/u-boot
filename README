@@ -1,3 +1,6 @@
+[![OpenSSF
+Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo})
+
 # SPDX-License-Identifier: GPL-2.0+
 #
 # (C) Copyright 2000 - 2013
