@@ -8,7 +8,7 @@
  *	Copyright 2000 Paolo Scaffardi
  *	Copyright 2000-2002 Wolfgang Denk, wd@denx.de
  */
-
+/*for scorecard*/
 #include <common.h>
 #include <env.h>
 #include <log.h>
