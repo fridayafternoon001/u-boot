@@ -2,6 +2,8 @@
 Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo})
 
 # SPDX-License-Identifier: GPL-2.0+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffridayafternoon001%2Fu-boot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffridayafternoon001%2Fu-boot?ref=badge_shield)
+
 #
 # (C) Copyright 2000 - 2013
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
@@ -3910,3 +3912,7 @@ Notes:
   u-boot mailing list. Bigger patches will be moderated. If they are
   reasonable and not too big, they will be acknowledged. But patches
   bigger than the size limit should be avoided.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffridayafternoon001%2Fu-boot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffridayafternoon001%2Fu-boot?ref=badge_large)
